@@ -1,0 +1,26 @@
+{
+  "auto_center": {
+    "measured_rpm": 30.0031,
+    "true_rpm": 30.0,
+    "error_pct": 0.01,
+    "detected": "292/300",
+    "center": [
+      408.43,
+      295.98
+    ],
+    "orbit_px": 194.42,
+    "pass": true
+  },
+  "given_center": {
+    "measured_rpm": 30.0061,
+    "true_rpm": 30.0,
+    "error_pct": 0.02,
+    "detected": "292/300",
+    "center": [
+      407.0,
+      295.0
+    ],
+    "orbit_px": 194.33,
+    "pass": true
+  }
+}
