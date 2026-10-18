@@ -1,0 +1,22 @@
+{
+  "video": "/workspace/sphere-tracker/test_output/synthetic_silver.mp4",
+  "true_rpm": 30.0,
+  "distractor_rpm": -18.0,
+  "fps": 30.0,
+  "frames": 300,
+  "center": [
+    407.0,
+    295.0
+  ],
+  "target_orbit_px": 195,
+  "distractor_orbit_px": 110,
+  "sphere_radius_px": 18,
+  "target_initial_xy": [
+    593.3,
+    237.4
+  ],
+  "occluded_frames": [
+    120,
+    127
+  ]
+}
