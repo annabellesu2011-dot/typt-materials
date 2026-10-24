@@ -14,3 +14,7 @@ See [`simulation/`](simulation/) for phy bot's numerical model of the magnetic c
 ## Tracking
 
 See [`tracking/`](tracking/) for cam bot's overhead-camera trackers of the ball's angular speed (Python + OpenCV and C++ + OpenCV).
+
+## Motor control
+
+See [`motor-control/`](motor-control/) for stepper motor speed controllers (Arduino + TMC2209, and Raspberry Pi 4 with pigpio).
