@@ -4,6 +4,7 @@ Combined equipment and materials list from Su's bots (Grok Bot, phy bot, cam bot
 
 - **[MATERIALS.md](MATERIALS.md)**: the master table (merged, with status), per-bot lists, and open decisions
 - [Magnetic_Carousel_Work_List.md](Magnetic_Carousel_Work_List.md) / [.pdf](Magnetic_Carousel_Work_List.pdf): Grok Bot's full work list (theory, materials, task checklist, safety)
+- Literature list (21 verified sources): [papers/README.md](papers/README.md)
 
 All items are **draft** until Su confirms them.
 
